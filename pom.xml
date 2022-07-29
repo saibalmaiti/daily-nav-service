@@ -85,6 +85,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>dailyMutualFundNav-service</finalName>
 	</build>
 
 </project>
