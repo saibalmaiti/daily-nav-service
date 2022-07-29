@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/Authorizatiion-Microservice.jar
+    - target/dailyMutualFundNav-service.jar
   discard-paths: yes
